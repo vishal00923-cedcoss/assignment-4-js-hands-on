@@ -227,3 +227,6 @@ const myArray = [
 
 // Only change code below this line
 const removedFromMyArray = myArray.pop();
+
+// Only change code below this line
+const removedFromMyArray = myArray.shift();
