@@ -160,3 +160,9 @@ firstLetterOfLastName = lastName[0]; // Change this line
 var myStr = "Jello World";
 // Only change code below this line
 myStr = "Hello World";
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2]; // Change this line
