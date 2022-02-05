@@ -179,3 +179,6 @@ var myVerb = "ran";
 var myAdverb = "quickly";
 
 var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Only change this line;
+
+// Only change code below this line
+const myArray = ["str", 2];
