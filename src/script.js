@@ -241,3 +241,11 @@ const myList = [
   ["Toilet Paper", 12],
   ["Sack of Rice", 1],
 ];
+
+// Define the function
+function reusableFunction() {
+  console.log("Hi World");
+}
+
+// Call the function
+reusableFunction();
