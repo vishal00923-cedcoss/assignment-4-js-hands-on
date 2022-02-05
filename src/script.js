@@ -249,3 +249,10 @@ function reusableFunction() {
 
 // Call the function
 reusableFunction();
+
+function functionWithArgs(a, b) {
+  console.log(a + b);
+}
+
+functionWithArgs(1, 2);
+functionWithArgs(7, 9);
