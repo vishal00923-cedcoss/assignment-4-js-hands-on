@@ -290,3 +290,29 @@ myLocalScope();
 // Run and check the console
 // myVar is not defined outside of myLocalScope
 console.log("outside myLocalScope", myVar);
+
+let outerWear = "T-Shirt";
+
+function myOutfit() {
+  var outerWear = "sweater";
+  return outerWear;
+}
+
+myOutfit();
+
+// Setup
+let sum = 0;
+
+function addThree() {
+  sum = sum + 3;
+}
+
+// Only change code below this line
+
+function addFive() {
+  sum += 5;
+}
+// Only change code above this line
+
+addThree();
+addFive();
