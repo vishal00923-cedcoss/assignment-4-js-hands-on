@@ -172,3 +172,10 @@ const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line
 
 // Only change code below this line
 const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Only change this line;
