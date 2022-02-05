@@ -20,3 +20,6 @@ var b;
 b = a;
 
 var a = 9;
+
+var myFirstName = "Vishal";
+var myLastName = "Chaurasia";
