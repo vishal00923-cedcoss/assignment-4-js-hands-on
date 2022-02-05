@@ -80,3 +80,5 @@ const ourDecimal = 5.7;
 const myDecimal = 6.7;
 
 const product = 5.0 * 1;
+
+const quotient = 4.4 / 2.0; // Change this line
