@@ -233,3 +233,11 @@ const removedFromMyArray = myArray.shift();
 
 // Only change code below this line
 const removedFromMyArray = myArray.unshift(["Paul", 35]);
+
+const myList = [
+  ["Canned Beans", 3],
+  ["Milk Galon", 1],
+  ["Cereal", 2],
+  ["Toilet Paper", 12],
+  ["Sack of Rice", 1],
+];
