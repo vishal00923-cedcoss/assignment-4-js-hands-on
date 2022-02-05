@@ -135,3 +135,9 @@ myStr += "This is the second sentence.";
 // Only change code below this line
 const myName = "Vishal";
 const myStr = "Hello, My name is " + myName + "how";
+
+// Change code below this line
+const someAdjective = "hello";
+let myStr = "Learning to code is ";
+
+myStr += someAdjective;
