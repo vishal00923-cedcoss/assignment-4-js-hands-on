@@ -72,3 +72,9 @@ let myVar = 11;
 
 // Only change code below this line
 myVar--;
+
+const ourDecimal = 5.7;
+
+// Only change code below this line
+
+const myDecimal = 6.7;
