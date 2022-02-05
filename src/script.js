@@ -182,3 +182,9 @@ var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAd
 
 // Only change code below this line
 const myArray = ["str", 2];
+
+// Only change code below this line
+const myArray = [
+  ["Bulls", 23],
+  ["White Sox", 45],
+];
